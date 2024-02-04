@@ -1,7 +1,7 @@
 # Satellite Cloud Prediction using GAN, U-Net, and ResNet
 
 This project aims to enhance satellite-based cloud prediction using advanced machine learning techniques, including Generative Adversarial Networks (GANs), U-Net, and Residual Networks (ResNet). The integration of these models enables accurate cloud pattern generation, segmentation, and effective training of deep neural networks.
-
+Output in file:https://drive.google.com/drive/u/0/folders/16PbK9SyWfkFH-OQmA1SHF6mnDRmEmDJ4
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset Information](#dataset-information)
